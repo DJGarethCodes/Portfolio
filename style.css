@@ -32,7 +32,8 @@
 
 h1 {
     text-align: center;
-    font-size: 500%;
+    font-size: 5rem;
+    font-family: "Courier Prime", monospace, monospace;
     background-color: transparent;
     color: whitesmoke;
 }
@@ -55,7 +56,7 @@ h2 {
 
 * {
     text-align: center;
-    font: serif;
+    font-family: "Courier Prime", monospace, monospace;
 }
 
 #matrix {
