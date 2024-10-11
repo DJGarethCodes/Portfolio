@@ -66,3 +66,19 @@ h2 {
 li {
     list-style: none;
 }
+
+.one {
+    color: whitesmoke;
+}
+
+.two {
+    color: whitesmoke;
+}
+
+.container {
+    padding: 10px;
+    background-color:#84a02b;
+    display: flex;
+    gap: 5px;
+    border-radius: 15px;
+}
